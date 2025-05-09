@@ -1,0 +1,52 @@
+{
+    "kind": "youtube#channel",
+    "id": "UCBVjMGOIkavEAhyqpxJ73Dw",
+    "snippet": {
+        "title": "Maroon 5",
+        "description": "PRICELESS FT. LISA PRE-SAVE NOW\nhttps://maroon5.lnk.to/Priceless",
+        "customUrl": "@maroon5",
+        "publishedAt": "2006-03-09T03:19:51Z",
+        "thumbnails": {
+            "default": {
+                "url": "https://yt3.ggpht.com/8Jk5RvAA_Qxs58PaSs9rJNEeQUbAQf8w0m6XgFrHTKlXRa8E4p8QemTJSKpnVT19jfUA9Zwv=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+            },
+            "medium": {
+                "url": "https://yt3.ggpht.com/8Jk5RvAA_Qxs58PaSs9rJNEeQUbAQf8w0m6XgFrHTKlXRa8E4p8QemTJSKpnVT19jfUA9Zwv=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+            },
+            "high": {
+                "url": "https://yt3.ggpht.com/8Jk5RvAA_Qxs58PaSs9rJNEeQUbAQf8w0m6XgFrHTKlXRa8E4p8QemTJSKpnVT19jfUA9Zwv=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+            }
+        },
+        "localized": {
+            "title": "Maroon 5",
+            "description": "PRICELESS FT. LISA PRE-SAVE NOW\nhttps://maroon5.lnk.to/Priceless"
+        },
+        "country": "US"
+    },
+    "contentDetails": {
+        "relatedPlaylists": {
+            "likes": "",
+            "uploads": "UUBVjMGOIkavEAhyqpxJ73Dw"
+        }
+    },
+    "statistics": {
+        "subscriberCount": "37500000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "185"
+    },
+    "brandingSettings": {
+        "channel": {
+            "title": "Maroon 5",
+            "description": "PRICELESS FT. LISA PRE-SAVE NOW\nhttps://maroon5.lnk.to/Priceless",
+            "keywords": "\"James Valentine\" \"Jesse Carmichael\" \"Mickey Madden\" \"Matt Flynn\" \"Maroon 5\" \"Adam Levine\"",
+            "unsubscribedTrailer": "r8rGb00sQTo",
+            "country": "US"
+        }
+    }
+}

@@ -1,0 +1,1712 @@
+{
+    "data": {
+        "kind": "youtube#searchListResponse",
+        "nextPageToken": "CDIQAA",
+        "regionCode": "DE",
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "dRESxcAMkXY"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-27T13:01:57Z",
+                    "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
+                    "title": "&#39;There&#39;s no way to sugarcoat it&#39;: CNN&#39;s Harry Enten on new Trump polling numbers",
+                    "description": "Donald Trump won back the Oval Office and took charge of the government amid the strongest poll numbers of his political career, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/dRESxcAMkXY/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/dRESxcAMkXY/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/dRESxcAMkXY/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "CNN",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-27T13:01:57Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "RK7-oa8_DkQ"
+                },
+                "snippet": {
+                    "publishedAt": "2018-02-14T14:00:53Z",
+                    "channelId": "UCNqFDjYTexJDET3rPDrmJKg",
+                    "title": "Daya - New (Lyrics)",
+                    "description": "Daya - New (Lyrics) ⏬ Download / Stream: http://smarturl.it/NewDaya Turn on notifications to stay updated with new uploads!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/RK7-oa8_DkQ/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/RK7-oa8_DkQ/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/RK7-oa8_DkQ/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "7clouds",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-02-14T14:00:53Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "-X6JmOM2vg4"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-27T20:55:25Z",
+                    "channelId": "UCqQo7ewe87aYAe7ub5UqXMw",
+                    "title": "Toronto Blue Jays vs New York Yankees - FULL GAME HIGHLIGHTS | April 27, 2025 MLB Season",
+                    "description": "Toronto Blue Jays vs New York Yankees - FULL GAME HIGHLIGHTS | April 27, 2025 MLB Season ⛽ SUB TO HOUSE OF ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/-X6JmOM2vg4/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/-X6JmOM2vg4/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/-X6JmOM2vg4/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "House of Highlights",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-27T20:55:25Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "qdICc0o5Jkg"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-27T05:25:38Z",
+                    "channelId": "UCckHqySbfy5FcPP6MD_S-Yg",
+                    "title": "‘PoK&#39;s Leepa Valley Ablaze’: India-Pakistan Skirmish At New LoC Posts | &#39;Clash Over Pahalgam&#39; Rages",
+                    "description": "The ceasefire pact between India and Pakistan is under increasing strain as tensions rise along the Line of Control. Indian military ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/qdICc0o5Jkg/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/qdICc0o5Jkg/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/qdICc0o5Jkg/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Times Of India",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-27T05:25:38Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "6ERdaIA_jUE"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-28T05:01:05Z",
+                    "channelId": "UCYPvAwZP8pZhSMW8qs7cVCw",
+                    "title": "Pahalgam Terror Attack LIVE: India Bans 16 Pakistani YouTube Channels In Explosive Crackdown",
+                    "description": "LIVE: Pahalgam Terror Attack's Video Released | India Today's Exclusive Newsbreak | J&K Terror News Dive into our LIVE ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/6ERdaIA_jUE/default_live.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/6ERdaIA_jUE/mqdefault_live.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/6ERdaIA_jUE/hqdefault_live.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "India Today",
+                    "liveBroadcastContent": "live",
+                    "publishTime": "2025-04-28T05:01:05Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "e6N94BJwZL0"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-26T03:00:45Z",
+                    "channelId": "UCy6kyFxaMqGtpE3pQTflK8A",
+                    "title": "New Rule: Flirting with Fascism | Real Time with Bill Maher (HBO)",
+                    "description": "New Rule: Republicans have to stop excusing all the dictator-y stuff that comes out of Trump's mouth by saying “He's just kidding!”",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/e6N94BJwZL0/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/e6N94BJwZL0/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/e6N94BJwZL0/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Real Time with Bill Maher",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-26T03:00:45Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "cmPQGqrLiVc"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-25T17:26:52Z",
+                    "channelId": "UCn_uMY15GlwaPpx80-WjR6g",
+                    "title": "CNN Just RUINED TRUMP’S FRIDAY With A BOMBSHELL New Report🚨",
+                    "description": "CNN just exposed Donald Trump with a devastating new report that he can't afford to ignore!",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/cmPQGqrLiVc/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/cmPQGqrLiVc/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/cmPQGqrLiVc/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Occupy Democrats",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-25T17:26:52Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "d4baqqmWSYw"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-28T04:04:11Z",
+                    "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+                    "title": "LIVE | Pope Francis Funeral | Cardinals Meet At Vatican To Choose New Pope | Papal Conclave | N18G",
+                    "description": "Vatican City, St Peter's Basilica - mourning mass for Pope Francis on the third day of Novendiali (nine days of mourning after the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/d4baqqmWSYw/default_live.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/d4baqqmWSYw/mqdefault_live.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/d4baqqmWSYw/hqdefault_live.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "CNN-News18",
+                    "liveBroadcastContent": "live",
+                    "publishTime": "2025-04-28T04:04:11Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "CzcV8cP_MWM"
+                },
+                "snippet": {
+                    "publishedAt": "2024-06-17T15:00:19Z",
+                    "channelId": "UCJfQMvpB5q8ewEse8BqvLMQ",
+                    "title": "New Cool Tool!🥰 New Viral Gadgets, Smart Kitchen Appliances, Tools, Utensils, Home Cleaning #shorts",
+                    "description": "Cool Gadgets!  Smart Appliances,New Gadgets, Kitchen Gadgets, Home Gadgets,Inventions  P-305 #shorts escription Cool ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/CzcV8cP_MWM/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/CzcV8cP_MWM/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/CzcV8cP_MWM/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Rajibul Entertainment",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-06-17T15:00:19Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "cd5GsNEEUNI"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-25T21:04:10Z",
+                    "channelId": "UCphOK9NiPE6qnj9Mp9aHWZg",
+                    "title": "Slow Down &amp; ReConnect 🌙 ♉ 432hz Wind Chimes Meditation New Moon in Taurus April 2025",
+                    "description": "Earthy Taurus energy, return to simplicity. Focusing together on this new beginning. Thank YOU so much! Calm Whale ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/cd5GsNEEUNI/default_live.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/cd5GsNEEUNI/mqdefault_live.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/cd5GsNEEUNI/hqdefault_live.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Calm Whale",
+                    "liveBroadcastContent": "live",
+                    "publishTime": "2025-04-25T21:04:10Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "iqcT0qOuPlE"
+                },
+                "snippet": {
+                    "publishedAt": "2023-02-28T12:00:34Z",
+                    "channelId": "UCE-KQxU0N4684m_FJXofRTw",
+                    "title": "Cool Gadgets!😍Smart Appliances,New Gadgets, Kitchen Gadgets, Home Gadgets,Inventions🙏P-112 #shorts",
+                    "description": "Cool Gadgets!  Smart Appliances,New Gadgets, Kitchen Gadgets, Home Gadgets,Inventions  P-112 Hi Everyone This channel ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/iqcT0qOuPlE/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/iqcT0qOuPlE/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/iqcT0qOuPlE/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "New Sky TV",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-02-28T12:00:34Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "tBRy3ArjClo"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-27T15:26:47Z",
+                    "channelId": "UCUvvorWNWYFlFan5JNInrMA",
+                    "title": "Mtv Roadies Season 20 New Promo | Prince And Neha Ki Ladayi Se Elvish Yadav Ranvijay Hue Shock",
+                    "description": "Mtv Roadies Season 20 New Promo | Prince And Neha Ki Ladayi Se Elvish Yadav Ranvijay Hue Shock About our work :- this ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/tBRy3ArjClo/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/tBRy3ArjClo/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/tBRy3ArjClo/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "plus gossip",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-27T15:26:47Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "YEzb1W0dSbA"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-23T11:55:35Z",
+                    "channelId": "UCxoXbSuft5JwOc4kF7hQ7iQ",
+                    "title": "NEW Ultra Legendary Brawler is Secretly PAY TO WIN! 😳 #brawlstarsp2w",
+                    "description": "Here's why, the first ever ultra legendary brawler KAZE is Actually Pay to Win in brawl stars! Because even tho she is kinda ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/YEzb1W0dSbA/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/YEzb1W0dSbA/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/YEzb1W0dSbA/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "ArcFX",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-23T11:55:35Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "etgou71pnuk"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-15T15:01:04Z",
+                    "channelId": "UC1sELGmy5jp5fQUugmuYlXQ",
+                    "title": "UNLEASHED: A NEW WAY TO LEASH!",
+                    "description": "minecraft #minecraftshorts #shortsvideo #shorts #leash.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/etgou71pnuk/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/etgou71pnuk/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/etgou71pnuk/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Minecraft",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-15T15:01:04Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "pqX_-ddVlRg"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-27T17:54:29Z",
+                    "channelId": "UCqsIUFa8l288lSfuymvY69A",
+                    "title": "1000 SUSHI ROLLS On A New Account",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/pqX_-ddVlRg/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/pqX_-ddVlRg/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/pqX_-ddVlRg/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "BrawlReflex",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-27T17:54:29Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "1c5e2uGyI28"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-22T23:15:46Z",
+                    "channelId": "UCrlIS7z20CnVaCrMvdkig_g",
+                    "title": "More than 2 dozen alleged Venezuelan gang members indicted in New York City",
+                    "description": "N.J. Burkett has the latest on the indictment. Check out more Eyewitness News - http://abc7ny.com/ Find us on social media: ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/1c5e2uGyI28/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/1c5e2uGyI28/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/1c5e2uGyI28/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Eyewitness News ABC7NY",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-22T23:15:46Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "K_rxbQD7ed8"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-13T15:44:30Z",
+                    "channelId": "UC-SrCCzkGq0wmSAuRs7EBFg",
+                    "title": "The New Giza Pyramid Hoax",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/K_rxbQD7ed8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/K_rxbQD7ed8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/K_rxbQD7ed8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Miniminuteman",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-13T15:44:30Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "w1_oRoy8PK8"
+                },
+                "snippet": {
+                    "publishedAt": "2025-03-23T15:01:12Z",
+                    "channelId": "UCiZ2z8F8ilr6SC7lOaxAQ4g",
+                    "title": "CRAZY NEW MOB! (minecraft live recap)",
+                    "description": "FOLLOW ME EVERYWHERE ↓ ↓ ↓ Twitter: @camman18_ https://twitter.com/camman18_ Twitch: camman18 (weekly streams) ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/w1_oRoy8PK8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/w1_oRoy8PK8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/w1_oRoy8PK8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "camman18",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-03-23T15:01:12Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "j_UqEfPps_Y"
+                },
+                "snippet": {
+                    "publishedAt": "2025-03-19T15:01:00Z",
+                    "channelId": "UCiZ2z8F8ilr6SC7lOaxAQ4g",
+                    "title": "NEW MINECRAFT BLOCK THAT WE DONT KNOW YET BUT WE WILL SOON!",
+                    "description": "FOLLOW ME EVERYWHERE ↓ ↓ ↓ Twitter: @camman18_ https://twitter.com/camman18_ Twitch: camman18 (weekly streams) ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/j_UqEfPps_Y/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/j_UqEfPps_Y/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/j_UqEfPps_Y/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "camman18",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-03-19T15:01:00Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "gk6S3-W4J6U"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-28T03:09:04Z",
+                    "channelId": "UClMtMkX03xnhgc5psHs0bQQ",
+                    "title": "[3 CODES] All New Godly Reworks in Anime Last Stand! Wukong &amp; Goku MUI Buffs!",
+                    "description": "Lets check out the new godly reworks in #animelaststand ! -- Important Links -- Roblox Merch: ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/gk6S3-W4J6U/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/gk6S3-W4J6U/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/gk6S3-W4J6U/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Blam Spot",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-28T03:09:04Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "LIDe-yTxda0"
+                },
+                "snippet": {
+                    "publishedAt": "2017-11-28T03:00:01Z",
+                    "channelId": "UCOJplhB0wGQWv9OuRmMT-4g",
+                    "title": "[MV] 이달의 소녀/이브 (LOONA/Yves) &quot;new&quot;",
+                    "description": "[MV] 이달의 소녀/이브 (LOOΠΔ/Yves) \"new\" LOOΠΔ [Yves] Moving on through LOOΠΔ 1/3 and LOOΠΔ / ODD EYE CIRCLE, ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/LIDe-yTxda0/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/LIDe-yTxda0/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/LIDe-yTxda0/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "loonatheworld",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2017-11-28T03:00:01Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "zc2SYILM0Z4"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-17T00:39:51Z",
+                    "channelId": "UCxsk7hqE_CwZWGEJEkGanbA",
+                    "title": "ROBLOX WHY!?? 😭😬",
+                    "description": "the roblox logo and roblox app icon is blue now ✓ BECOME A MEMBER - https://www.youtube.com/kreekcraft/join ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/zc2SYILM0Z4/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/zc2SYILM0Z4/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/zc2SYILM0Z4/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "KreekCraft",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-17T00:39:51Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "-aD2gbTL6tE"
+                },
+                "snippet": {
+                    "publishedAt": "2025-02-14T14:00:00Z",
+                    "channelId": "UClNfJOmFquI5bRqGm9H3QiA",
+                    "title": "TRY ON HAUL: New Glaze Craze Tinted Lip Serum! Which is your favorite? 🤍🧡🩷🤎",
+                    "description": "Shop on Sephora: https://www.sephora.com/product/P515527 Shop on Laneige: ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/-aD2gbTL6tE/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/-aD2gbTL6tE/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/-aD2gbTL6tE/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "LANEIGE US",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-02-14T14:00:00Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "kfiMTrPO0Os"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-27T15:43:40Z",
+                    "channelId": "UCpHWPnW9vt633EjaZ3GsWGw",
+                    "title": "Mangal Lakshmi NEW PROMO Today Episode Adit and Saumya fight because of Mangal",
+                    "description": "Mangal Lakshmi NEW PROMO Today Episode Adit and Saumya fight because of Mangal #serialtwister #serial #mangallakshmi ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/kfiMTrPO0Os/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/kfiMTrPO0Os/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/kfiMTrPO0Os/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "SerialTwister",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-27T15:43:40Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#channel",
+                    "channelId": "UCjH9hAcboMhweWUWAR7Gwww"
+                },
+                "snippet": {
+                    "publishedAt": "2018-12-12T09:22:42Z",
+                    "channelId": "UCjH9hAcboMhweWUWAR7Gwww",
+                    "title": "New School",
+                    "description": "Benvenuti nel Canale Ufficiale di New School! Al centro di New School ci sono le vicende di Nick, Rudy e Anna, un gruppo di ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lRjMzJhqPNAyNb3VuLHdc4UsrRCHzZzo5U9CFpb861rw=s88-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "medium": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lRjMzJhqPNAyNb3VuLHdc4UsrRCHzZzo5U9CFpb861rw=s240-c-k-c0xffffffff-no-rj-mo"
+                        },
+                        "high": {
+                            "url": "https://yt3.ggpht.com/ytc/AIdro_lRjMzJhqPNAyNb3VuLHdc4UsrRCHzZzo5U9CFpb861rw=s800-c-k-c0xffffffff-no-rj-mo"
+                        }
+                    },
+                    "channelTitle": "New School",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2018-12-12T09:22:42Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "RwCAXGcqZMM"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-19T15:15:33Z",
+                    "channelId": "UCqsIUFa8l288lSfuymvY69A",
+                    "title": "Top 10 NEW Skins in the UPDATE",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/RwCAXGcqZMM/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/RwCAXGcqZMM/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/RwCAXGcqZMM/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "BrawlReflex",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-19T15:15:33Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "K3A26madxok"
+                },
+                "snippet": {
+                    "publishedAt": "2025-01-05T18:38:00Z",
+                    "channelId": "UCi109D_E3LN_PD2DimavInA",
+                    "title": "Mommy Really Cares About us🌎 | New Jeans Jersey Remix (Miside Mita EditTikTok Version)",
+                    "description": "Yo Guys How are you, I Hope you are fine. So, I am Samir & I make this Edit. If you like it or enjoy it so please hit the Like botton ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/K3A26madxok/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/K3A26madxok/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/K3A26madxok/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "SAMIR AVENGER GM",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-01-05T18:38:00Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "RNcS9u-mJAs"
+                },
+                "snippet": {
+                    "publishedAt": "2025-03-23T10:00:34Z",
+                    "channelId": "UCalEP8wr8EjdPzDlf59WUUg",
+                    "title": "New rideable ghasts",
+                    "description": "There's new rideable ghasts in Minecraft. The recent Minecraft Live revealed the Dried Ghast, which is a new block found in the ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/RNcS9u-mJAs/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/RNcS9u-mJAs/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/RNcS9u-mJAs/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "CheezyChez",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-03-23T10:00:34Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "WNpU4-3RIcA"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-24T14:53:00Z",
+                    "channelId": "UChftTVI0QJmyXkajQYt2tiQ",
+                    "title": "Breaking News: Pakistan suspends Simla Agreement to counter India&#39;s Indus water move | N18G",
+                    "description": "Breaking News: Pakistan suspends Simla Agreement to counter India's Indus water move | N18G In a sharp response to New ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/WNpU4-3RIcA/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/WNpU4-3RIcA/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/WNpU4-3RIcA/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "moneycontrol",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-24T14:53:00Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "Pt74ob8JhK0"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-17T19:30:03Z",
+                    "channelId": "UCvICJHzZEwb_9ckAMohAqzw",
+                    "title": "NEW “CODE” Coming to DRESS TO IMPRESS MINI EASTER UPDATE!! 🐰 🐣",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Pt74ob8JhK0/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Pt74ob8JhK0/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Pt74ob8JhK0/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Lana's Life",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-17T19:30:03Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "Uiv_V7QOy3A"
+                },
+                "snippet": {
+                    "publishedAt": "2025-03-08T17:00:26Z",
+                    "channelId": "UCVzLLZkDuFGAE2BGdBuBNBg",
+                    "title": "Archaeology 🦴 | BRAND NEW Bluey Bonus Bit 💙 | Bluey",
+                    "description": "Bandit Heeler is back from the field to discuss his latest archaeology findings SUBSCRIBE TO BLUEY AT ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Uiv_V7QOy3A/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Uiv_V7QOy3A/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Uiv_V7QOy3A/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Bluey - Official Channel",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-03-08T17:00:26Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "cQTo9O85Zro"
+                },
+                "snippet": {
+                    "publishedAt": "2023-08-23T09:00:12Z",
+                    "channelId": "UC12HMtO5MYph9dCZZ7yygng",
+                    "title": "XG - NEW DANCE (Official Music Video)",
+                    "description": "XG NEW DANCE from XG's 1st Mini Album 'NEW DNA' 2023.08.23 WED Streaming http://apple.co/UpNextXG Music Video ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/cQTo9O85Zro/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/cQTo9O85Zro/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/cQTo9O85Zro/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "XG",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-08-23T09:00:12Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "7SORx737kQA"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-27T01:03:28Z",
+                    "channelId": "UCpHWPnW9vt633EjaZ3GsWGw",
+                    "title": "Anupamaa Serial NEW PROMO Rahi gives warning to Anupama",
+                    "description": "Anupamaa Serial NEW PROMO Rahi gives warning to Anupama #serialtwister #anupama #serial #starplus ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/7SORx737kQA/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/7SORx737kQA/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/7SORx737kQA/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "SerialTwister",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-27T01:03:28Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "9hkpK0Rr7oo"
+                },
+                "snippet": {
+                    "publishedAt": "2025-03-13T22:03:27Z",
+                    "channelId": "UCWQrSQ0wJ3oZshXsZcl_Srg",
+                    "title": "Speed REACTS to NEW Hanumankind Song 😳🔥",
+                    "description": "Credit: Hanumankind , IShowSpeed We respect copyright laws and comply with takedown requests. If you believe your rights ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/9hkpK0Rr7oo/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/9hkpK0Rr7oo/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/9hkpK0Rr7oo/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Music Media",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-03-13T22:03:27Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "ElVEOCtAjMc"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-28T01:00:15Z",
+                    "channelId": "UCbQhxp0XUPmQ5DPtuvyHbrg",
+                    "title": "Mannat NEW PROMO | 28 April | Mannat Episode Update",
+                    "description": "Mannat NEW PROMO | 28 April | Mannat Episode Update #Mannat Mannat 28 April Episode Update Mannat Today Full Episode ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/ElVEOCtAjMc/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/ElVEOCtAjMc/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/ElVEOCtAjMc/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "TELLY SERIAL ZONE",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-28T01:00:15Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "vOmUuA21QQQ"
+                },
+                "snippet": {
+                    "publishedAt": "2025-02-25T13:01:29Z",
+                    "channelId": "UC5gxP-2QqIh_09djvlm9Xcg",
+                    "title": "New Teacher PRANKED 😢",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/vOmUuA21QQQ/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/vOmUuA21QQQ/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/vOmUuA21QQQ/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Alan's Universe",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-02-25T13:01:29Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "78zdDaT2lk0"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-04T13:12:27Z",
+                    "channelId": "UCce7LINnEdAB3nliBbgGtMg",
+                    "title": "New Holland 4*4 Le Aaye #trending #viralvideo #youtube #trendingshorts #shortsvideo #shorts",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/78zdDaT2lk0/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/78zdDaT2lk0/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/78zdDaT2lk0/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Gulshan Khatana",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-04T13:12:27Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "hMF8OLfqAOo"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-23T22:42:38Z",
+                    "channelId": "UC_vt34wimdCzdkrzVejwX9g",
+                    "title": "USA: Terrible forest fire near New Jersey, heavy damage | Geo News 3 AM Headlines | 24th April 25",
+                    "description": "PahalgamAttackUpdate #KashmirAttack #PahalgamAttack #PahalgamTerrorAttack #fireinforest #uspresident #nawazsharif ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/hMF8OLfqAOo/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/hMF8OLfqAOo/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/hMF8OLfqAOo/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Geo News",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-23T22:42:38Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "gZWM-hLHnBU"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-27T14:34:12Z",
+                    "channelId": "UCbQhxp0XUPmQ5DPtuvyHbrg",
+                    "title": "Parineetii NEW PROMO | 28 April | Parineeti Episode Update",
+                    "description": "Parineetii NEW PROMO | 28 April | Parineetii Episode Update #parineeti Parineeti 28 April Episode Update Parineeti Today Full ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/gZWM-hLHnBU/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/gZWM-hLHnBU/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/gZWM-hLHnBU/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "TELLY SERIAL ZONE",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-27T14:34:12Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "v8YwzVtetWE"
+                },
+                "snippet": {
+                    "publishedAt": "2025-03-14T12:35:26Z",
+                    "channelId": "UC5gxP-2QqIh_09djvlm9Xcg",
+                    "title": "New KID Episode Incoming 🚨",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/v8YwzVtetWE/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/v8YwzVtetWE/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/v8YwzVtetWE/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Alan's Universe",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-03-14T12:35:26Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "vCncSoKhjwc"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-14T10:30:07Z",
+                    "channelId": "UCGMfRSOhC8SqZ0nnjfDR1Rg",
+                    "title": "BACKLASH (OFFICIAL VIDEO) PREM DHILLON |  THE KIDD |  NEW PUNJABI SONGS 2025",
+                    "description": "PREM DHILLON PRESENT SONG - BACKLASH SINGER/LYRICS/COMPOSER - PREM DHILLON MUSIC - THE KIDD VISUALS ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/vCncSoKhjwc/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/vCncSoKhjwc/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/vCncSoKhjwc/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Prem Dhillon",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-14T10:30:07Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "E_7W8mieUww"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-03T19:00:08Z",
+                    "channelId": "UCz2eoXfYd-vu99oxJRycb9g",
+                    "title": "Cyril Kamer - New Boy (Video Oficial)",
+                    "description": "cyrilkamer #newboy #trap Cyril Kamer - New Boy (Video Oficial) Escucha \"NewBoy\" en todas las plataformas digitales: ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/E_7W8mieUww/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/E_7W8mieUww/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/E_7W8mieUww/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Cyril Kamer",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-03T19:00:08Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "qJTXRxWTlg8"
+                },
+                "snippet": {
+                    "publishedAt": "2025-03-14T13:26:15Z",
+                    "channelId": "UC-Qs0I4nqAHhtC5oPUkP6fQ",
+                    "title": "NEW TOON TODAY 🎉 #dandysworld #robloxart #animation #memes #shorts",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/qJTXRxWTlg8/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/qJTXRxWTlg8/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/qJTXRxWTlg8/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Lee the dog",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-03-14T13:26:15Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "P58LuUo0tzA"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-19T07:21:08Z",
+                    "channelId": "UC2XT37E3pyiVI0KHY58ydKg",
+                    "title": "Pyaar Pyaar Karte Karte #sdmandal #new #trending #couple #song",
+                    "description": "Pyaar Pyaar Karte Karte #sdmandal #new #trending #couple #song   SUBSCRIBE: https://bit.ly/3BOayeP ▻▻ SD Mandal ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/P58LuUo0tzA/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/P58LuUo0tzA/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/P58LuUo0tzA/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "SD Mandal Official",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-19T07:21:08Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "3zqTLEobp8I"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-23T03:10:50Z",
+                    "channelId": "UCNZyLULUQBp5e9Q1cKtvk6Q",
+                    "title": "New Jersey wildfire forces thousands of people to evacuate",
+                    "description": "A wildfire raging in New Jersey forced thousands of people to evacuate and closed parts of the Garden State Parkway on Tuesday ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/3zqTLEobp8I/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/3zqTLEobp8I/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/3zqTLEobp8I/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "CBS New York",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-23T03:10:50Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "Ao9-IiiB27c"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-13T14:20:25Z",
+                    "channelId": "UCaWZfkgw1hqBUzHhml07W3A",
+                    "title": "Teri Ram jhol bolegi meri pistol Bolegi New song New outfit fashion #newsong #fashion #dress #ootd",
+                    "description": "Teri Ram jhol bolegi meri pistol Bolegi New song New outfit fashion #newsong #fashion #dress #ootd #newsong #fashion #outfit ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/Ao9-IiiB27c/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/Ao9-IiiB27c/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/Ao9-IiiB27c/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Beenu styles fashion ",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-13T14:20:25Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "6ZKDdzqN6B4"
+                },
+                "snippet": {
+                    "publishedAt": "2023-02-16T10:04:39Z",
+                    "channelId": "UCMvNj-EdziRVn5BIwJV6iZg",
+                    "title": "N.E.W.",
+                    "description": "Provided to YouTube by Universal Music Group N.E.W. · Hiromi · Tomoaki Baba · Shun Ishiwaka BLUE GIANT ℗ 2023 ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/6ZKDdzqN6B4/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/6ZKDdzqN6B4/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/6ZKDdzqN6B4/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Hiromi - Topic",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2023-02-16T10:04:39Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "NCMo2xqLIKE"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-09T09:26:43Z",
+                    "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+                    "title": "New Titanic scan reveals ground-breaking details of ship&#39;s final hours | BBC News",
+                    "description": "A digital scan of the Titanic has revealed new insight into the doomed liner's final hours, including how engineers kept the lights ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/NCMo2xqLIKE/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/NCMo2xqLIKE/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/NCMo2xqLIKE/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "BBC News",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-09T09:26:43Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "hfrHN_5JiPw"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-22T17:01:23Z",
+                    "channelId": "UCElGBUWDCa05jRzc2PfmGqQ",
+                    "title": "Was a long road to get here…NEW ALBUM DROPS FRIDAY. Y’all ready? 🤔 #tommacdonald #hangovergang",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/hfrHN_5JiPw/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/hfrHN_5JiPw/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/hfrHN_5JiPw/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Tom MacDonald",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-22T17:01:23Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "uJN8auCP9ps"
+                },
+                "snippet": {
+                    "publishedAt": "2025-04-27T12:51:10Z",
+                    "channelId": "UCVfW0mIg_fSJ60u2rC8j-aA",
+                    "title": "डिलीट करो इसको | Senura Dal Ke | Pawan Singh New Song | RSM Mini",
+                    "description": "rajansinghmukut #pawamsingh 4K Video - Pawan Singh - सेनुरा डाल के | Priyanka Singh | Senura Dal Ke | New ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/uJN8auCP9ps/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/uJN8auCP9ps/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/uJN8auCP9ps/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "RSM Mini",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-04-27T12:51:10Z"
+                }
+            }
+        ]
+    },
+    "status": 200,
+    "statusText": "",
+    "headers": {
+        "access-control-allow-credentials": "true",
+        "access-control-allow-headers": "X-Requested-With",
+        "access-control-allow-methods": "GET, POST",
+        "access-control-allow-origin": "*",
+        "content-encoding": "gzip",
+        "content-type": "application/json",
+        "date": "Sun, 04 May 2025 19:01:01 GMT",
+        "server": "RapidAPI-1.2.8",
+        "vary": "Accept-Encoding",
+        "x-powered-by": "PHP/8.1.29",
+        "x-rapidapi-region": "AWS - ap-southeast-1",
+        "x-rapidapi-request-id": "1ea7c01bbb278b2cdb78815724f86409cf51a45777ee7108c89edcad9f4a36dc",
+        "x-rapidapi-version": "1.2.8",
+        "x-ratelimit-rapid-free-plans-hard-limit-limit": "500000",
+        "x-ratelimit-rapid-free-plans-hard-limit-remaining": "489692",
+        "x-ratelimit-rapid-free-plans-hard-limit-reset": "582441",
+        "x-ratelimit-request-limit": "500",
+        "x-ratelimit-request-remaining": "310",
+        "x-ratelimit-request-reset": "64041"
+    },
+    "config": {
+        "transitional": {
+            "silentJSONParsing": true,
+            "forcedJSONParsing": true,
+            "clarifyTimeoutError": false
+        },
+        "adapter": [
+            "xhr",
+            "http",
+            "fetch"
+        ],
+        "transformRequest": [
+            null
+        ],
+        "transformResponse": [
+            null
+        ],
+        "timeout": 0,
+        "xsrfCookieName": "XSRF-TOKEN",
+        "xsrfHeaderName": "X-XSRF-TOKEN",
+        "maxContentLength": -1,
+        "maxBodyLength": -1,
+        "env": {},
+        "headers": {
+            "Accept": "application/json, text/plain, */*",
+            "X-RapidAPI-Key": "KJwZZIJSFimshuivMSVGaiYzkRomp15f2vKjsnK4bKzuUzVLzA",
+            "X-RapidAPI-Host": "youtube-v31.p.rapidapi.com"
+        },
+        "params": {
+            "maxResults": 50
+        },
+        "method": "get",
+        "url": "https://youtube-v31.p.rapidapi.com/search?part=snippet&q=New",
+        "allowAbsoluteUrls": true
+    },
+    "request": {}
+}

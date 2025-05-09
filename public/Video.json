@@ -1,0 +1,61 @@
+{
+    "kind": "youtube#video",
+    "id": "dRESxcAMkXY",
+    "snippet": {
+        "publishedAt": "2025-04-27T13:01:57Z",
+        "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
+        "title": "'There's no way to sugarcoat it': CNN's Harry Enten on new Trump polling numbers",
+        "description": "Donald Trump won back the Oval Office and took charge of the government amid the strongest poll numbers of his political career, but as the 100-day mark of his presidency approaches, Americans’ views of what he’s done so far have turned deeply negative, a new CNN poll conducted by SSRS finds.\n\nTrump’s 41% approval rating is the lowest for any newly elected president at 100 days dating back at least to Dwight Eisenhower – including Trump’s own first term.\n\nApproval of Trump’s handling of the presidency is down 4 points since March, and 7 points lower than it was in late February. Just 22% say they strongly approve of Trump’s handling of the job, a new low, and about twice as many say they strongly disapprove (45%). #CNN #News",
+        "thumbnails": {
+            "default": {
+                "url": "https://i.ytimg.com/vi/dRESxcAMkXY/default.jpg",
+                "width": 120,
+                "height": 90
+            },
+            "medium": {
+                "url": "https://i.ytimg.com/vi/dRESxcAMkXY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+            },
+            "high": {
+                "url": "https://i.ytimg.com/vi/dRESxcAMkXY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+            },
+            "standard": {
+                "url": "https://i.ytimg.com/vi/dRESxcAMkXY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+            },
+            "maxres": {
+                "url": "https://i.ytimg.com/vi/dRESxcAMkXY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+            }
+        },
+        "channelTitle": "CNN",
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+            "title": "'There's no way to sugarcoat it': CNN's Harry Enten on new Trump polling numbers",
+            "description": "Donald Trump won back the Oval Office and took charge of the government amid the strongest poll numbers of his political career, but as the 100-day mark of his presidency approaches, Americans’ views of what he’s done so far have turned deeply negative, a new CNN poll conducted by SSRS finds.\n\nTrump’s 41% approval rating is the lowest for any newly elected president at 100 days dating back at least to Dwight Eisenhower – including Trump’s own first term.\n\nApproval of Trump’s handling of the presidency is down 4 points since March, and 7 points lower than it was in late February. Just 22% say they strongly approve of Trump’s handling of the job, a new low, and about twice as many say they strongly disapprove (45%). #CNN #News"
+        },
+        "defaultAudioLanguage": "en"
+    },
+    "contentDetails": {
+        "duration": "PT10M49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+    },
+    "statistics": {
+        "viewCount": "631545",
+        "likeCount": "9654",
+        "favoriteCount": "0",
+        "commentCount": "5342"
+    }
+}
