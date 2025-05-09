@@ -1,12 +1,37 @@
-# React + Vite
+# YouTube Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive YouTube clone built with React and Tailwind CSS, powered by the [YouTube v3.1 API on RapidAPI](https://rapidapi.com/ytdlfree/api/youtube-v31).
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Home Page (`/`)**: Displays trending or popular videos.
+- **Video Detail (`/video/:id`)**: View and play a selected video with details.
+- **Channel Page (`/channel/:id`)**: View videos from a specific YouTube channel.
+- **Search Page (`/search?q=keyword`)**: Search and display videos based on user queries.
+- **Watch History (`/history`)**: View history of watched videos, stored in `localStorage`.
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React**: Frontend framework
+- **React Router DOM**: For SPA routing
+- **Axios**: API requests
+- **Tailwind CSS**: Utility-first CSS framework for styling
+- **useState & useEffect**: For managing state and side effects
+- **localStorage**: To persist watch history
+
+## 🔐 API Integration
+
+- Uses the [YouTube v3.1 API](https://rapidapi.com/ytdlfree/api/youtube-v31) from RapidAPI
+- API Key must be stored in a `.env` file using:
+
+  ```env
+  VITE_API_KEY=your_rapidapi_key_here
+## Getting Started
+
+**Clone the repository**
+
+   ```bash
+   git clone https://github.com/shashankktiwarii3/youtube-clone-reactjs
+   cd youtube-clone
+   vite build
+   npm run dev
